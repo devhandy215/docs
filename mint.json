@@ -15,14 +15,8 @@
       "to": "#07C983"
     }
   },
-  "topbarLinks": [
-    {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
-    }
-  ],
   "topbarCtaButton": {
-    "name": "Dashboard",
+    "name": "Get Support",
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
